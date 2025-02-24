@@ -1,3 +1,7 @@
+Generic Template in React version By Akashbk201 
+
+Live Preview Link: https://generic-react-version.vercel.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
